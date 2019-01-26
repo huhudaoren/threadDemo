@@ -15,11 +15,11 @@
 
 ### 2.5、 同步和非同步方法同时调用（com.Thread.Threads_Test_005）
 
-### 2.6、 同步和非同步，容易出现脏读（dirtyRead）问题（com.Thread.Threads_Test_006）
+### 2.6、 同步和非同步，出现脏读（dirtyRead）问题（com.Thread.Threads_Test_006）
 
 ### 2.7、 synchronized获得的锁重入（com.Thread.Threads_Test_007）
 
-### 2.8、 synchronized 获得的锁重入、子类调用父类的同步请求方法（com.Thread.Threads_Test_008）
+### 2.8、 synchronized获得的锁重入、子类调用父类的同步请求方法（com.Thread.Threads_Test_008）
 
 ### 2.9、 程序在执行中，出现异常，锁默认会被释放（com.Thread.Threads_Test_009）
 
