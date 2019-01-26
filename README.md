@@ -23,4 +23,5 @@
 
 ### 2.9、 程序在执行中，出现异常，锁默认会被释放（com.Thread.Threads_Test_009）
 
+### 2.10、 死锁（com.Thread.Threads_Test_010）
 ## 三、 valatile关键词
